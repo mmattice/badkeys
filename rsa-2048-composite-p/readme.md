@@ -1,3 +1,4 @@
 # RSA-2048 Composite P
 
-The `p` value in this key is a composite number. It is divisible by 2.
+This key is has a `p` value that is even and composite. This makes the resulting
+`n` modulus easy to factor. 
